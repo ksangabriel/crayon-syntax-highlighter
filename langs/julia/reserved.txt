@@ -1,0 +1,9 @@
+function
+typeof
+println
+print
+length
+div
+foreach
+view
+sort
